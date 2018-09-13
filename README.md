@@ -10,3 +10,4 @@
 - `git status`
 - `git commit -m "message"`
 
+`browser-sync start --server --files "**/*.css,**/*.html,**/*.js,**/*.json,**/*.jpg" --directory`
